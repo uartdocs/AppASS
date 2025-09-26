@@ -61,7 +61,8 @@ const cursos: Curso[] = [
   { id: '31', nome: 'PROFISSIONAL SEGURO' },
   { id: '32', nome: 'DESIGNER DE INTERIORES' },
   { id: '33', nome: 'HOTELARIA E TURISMO' },
-  { id: '34', nome: 'GAMES CREATOR' }
+  { id: '34', nome: 'GAMES CREATOR' },
+  { id: '34', nome: 'Personalizado' }
 ];
 
 const horarios: Horario[] = [
