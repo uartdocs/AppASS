@@ -28,27 +28,61 @@ interface ProfessorSelecionado {
 }
 
 const cursos: Curso[] = [
-  { id: '1', nome: 'Inglês Básico' },
-  { id: '2', nome: 'Espanhol Básico' },
-  { id: '3', nome: 'Francês Básico' },
-  { id: '4', nome: 'Alemão Básico' },
-  { id: '5', nome: 'Italiano Básico' }
+  { id: '1', nome: 'OPERADO DE COMPUTADOR (ESSENCIAL)' },
+  { id: '2', nome: 'OPERADO DE COMPUTADOR (PREMIUM)' },
+  { id: '3', nome: 'PACOTE OFFICE' },
+  { id: '4', nome: 'FUTURO JOVEM' },
+  { id: '5', nome: 'ESTUDANTE TECH' },
+  { id: '6', nome: 'CRIANÇAS DO FUTURO' },
+  { id: '7', nome: 'YOUTUBER' },
+  { id: '8', nome: 'SOCIAL MEDIA PRO' },
+  { id: '9', nome: 'MESTRE EM EXCEL' },
+  { id: '10', nome: 'PROJETISTA DE ALTO NÍVEL' },
+  { id: '11', nome: 'VIDEO CREATOR PROFISSIONAL' },
+  { id: '12', nome: 'DESIGNER GRÁFICO' },
+  { id: '13', nome: 'FOTOGRAFIA DIGITAL' },
+  { id: '14', nome: 'PROFISSIONAL ADOBE' },
+  { id: '15', nome: 'DESENVOLVEDOR WEB' },
+  { id: '16', nome: 'PROGRAMADOR MASTER' },
+  { id: '17', nome: 'VENDEDOR DIGITAL' },
+  { id: '18', nome: 'OPERADOR DE LOGÍSTICA' },
+  { id: '19', nome: 'LÍDER DO FUTURO' },
+  { id: '20', nome: 'AUXILIAR CONTÁBIL' },
+  { id: '21', nome: 'AUXILIAR DE ESCRITÓRIO' },
+  { id: '22', nome: 'ADMINISTRAÇÃO PESSOAL' },
+  { id: '23', nome: 'MARKETING E VENDAS' },
+  { id: '24', nome: 'DESENVOLVIMENTO PESSOAL E PROFISSIONAL' },
+  { id: '25', nome: 'GESTÃO DE NEGÓCIOS' },
+  { id: '26', nome: 'PROFESSOR DO FUTURO' },
+  { id: '27', nome: 'SEGURANÇA DA SAÚDE' },
+  { id: '28', nome: 'MELHOR IDADE' },
+  { id: '29', nome: 'INGLÊS INTERATIVO' },
+  { id: '30', nome: 'ESPECIALISTA EM IA' },
+  { id: '31', nome: 'PROFISSIONAL SEGURO' },
+  { id: '32', nome: 'DESIGNER DE INTERIORES' },
+  { id: '33', nome: 'HOTELARIA E TURISMO' },
+  { id: '34', nome: 'GAMES CREATOR' }
 ];
 
 const horarios: Horario[] = [
   { id: '1', periodo: '09:00 - 10:00' },
   { id: '2', periodo: '10:00 - 11:00' },
-  { id: '3', periodo: '14:00 - 15:00' },
-  { id: '4', periodo: '15:00 - 16:00' },
-  { id: '5', periodo: '16:00 - 17:00' }
+  { id: '3', periodo: '11:00 - 12:00' },
+  { id: '4', periodo: '12:00 - 13:00' },
+  { id: '5', periodo: '13:00 - 14:00' },
+  { id: '6', periodo: '14:00 - 15:00' },
+  { id: '7', periodo: '15:00 - 16:00' },
+  { id: '8', periodo: '16:00 - 17:00' },
+  { id: '9', periodo: '17:00 - 18:00' },
+  { id: '10', periodo: '18:00 - 19:00' },
+  { id: '11', periodo: '19:00 - 20:00' },
+  { id: '12', periodo: '20:00 - 21:00' }
 ];
 
 const professores = [
-  'Prof. Carlos Oliveira',
-  'Prof. Maria Santos',
-  'Prof. João Silva',
-  'Prof. Ana Costa',
-  'Prof. Pedro Lima'
+  'ARTHUR',
+  'GABRIEL',
+  'EDUARDO'
 ];
 
 function App() {
